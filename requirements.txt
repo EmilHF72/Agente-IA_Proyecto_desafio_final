@@ -1,0 +1,14 @@
+streamlit>=1.35.0
+langchain
+langchain-community
+langchain-core
+langgraph
+langchain-groq
+langchain-text-splitters
+langchain-huggingface
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.1
+pypdf>=4.3.1
+pandas>=2.2.2
+python-dotenv>=1.0.1
+tiktoken>=0.7.0
